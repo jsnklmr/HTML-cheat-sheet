@@ -1,0 +1,25 @@
+h1, h2{
+    color: red;
+    text-align: center; 
+}
+
+th, td {
+    border: 1px solid red;
+  }
+
+.code {
+    background-color: aqua;
+    text-align: center;
+    font: 13px;
+    font-family: monospace;
+  }
+
+table {
+    width: 650px;
+    margin: 0 auto;
+    border: 2px solid;
+  }
+
+  th {
+    text-transform: uppercase;
+  }
